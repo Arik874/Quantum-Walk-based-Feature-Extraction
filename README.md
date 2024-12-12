@@ -5,7 +5,7 @@ Title: A  Theoretical  Proposal:  Utilizing  Quantum  Walks  for  Feature Extrac
 
 EngrXiv Preprint Server : https://doi.org/10.31224/4214
 
-May Require extensive testing and validation of this approach with large and diverse datasets , comapred against classical models.
+May Require extensive testing and validation of this approach with large and diverse datasets , compared against classical models.
 
 
 ![image](https://github.com/user-attachments/assets/829fa803-d0d7-4edc-a09c-75119ee8d53f)
